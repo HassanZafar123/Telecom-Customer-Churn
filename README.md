@@ -1,5 +1,5 @@
 **Project Overview**
-This project presents an interactive Power BI dashboard built using the Telco Customer Churn dataset. The objective is to analyze customer churn patterns, identify the factors influencing customer attrition and provide actionable business insights that can help improve customer retention. The dashboard enables stakeholders to monitor key performance indicators (KPIs), explore churn trends and understand customer demographics and service characteristics associated with churn.
+This project presents an interactive Power BI dashboard built using the Telco Customer Churn dataset. The objective is to analyze customer churn patterns, identify the factors influencing customer attrition and provide actionable business insights that can help improve customer retention. The dashboard enables stakeholders to monitor key performance indicators (KPIs), explore churn trends and understand customer demographics and key characteristics associated with churn.
 
 **Business Objectives**
 Analyze overall customer churn performance.
@@ -9,11 +9,13 @@ Estimate revenue at risk due to churn.
 Support data-driven customer retention strategies.
 
 **Tools & Technologies**
+Microsoft Excel
+SQL
 Power BI
 Power Query
 DAX
-Microsoft Excel
 Data Cleaning & Transformation
+Data Visualization
 
 **Key Insights**
 Customers with Month-to-Month contracts exhibit the highest churn rate.
